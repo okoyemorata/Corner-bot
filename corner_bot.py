@@ -15,7 +15,7 @@ from datetime import datetime
 # ─────────────────────────────────────────
 #  CONFIG — fill these in before running
 # ─────────────────────────────────────────
-API_FOOTBALL_KEY = "YOUR_API_FOOTBALL_KEY"   # from api-football.com
+API_FOOTBALL_KEY =   "123f79ab272b934efd78db14806c6f85" # from api-football.com
 TELEGRAM_BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # from @BotFather on Telegram
 TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"   # your personal chat ID
 
