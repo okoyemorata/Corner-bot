@@ -17,7 +17,7 @@ from datetime import datetime
 # ─────────────────────────────────────────
 API_FOOTBALL_KEY = "123f79ab272b934efd78db14806c6f85" # from api-football.com
 TELEGRAM_BOT_TOKEN = "8789590316:AAFMkGNVDY9nQg3jWm2C3FGGDtITu1Oq_AU" # from @BotFather on Telegram
-TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"   # your personal chat ID
+TELEGRAM_CHAT_ID = "7598712715" # your personal chat ID
 
 # ─────────────────────────────────────────
 #  SETTINGS
