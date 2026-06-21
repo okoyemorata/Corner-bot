@@ -1,1 +1,1 @@
-worker: python corner_bot_final.py
+worker: python corner_bot.py
